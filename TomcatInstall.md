@@ -1,6 +1,7 @@
 # Tomcat Install
 
 tashiro
+sudo
 
 ## install version
 
