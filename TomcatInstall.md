@@ -6,6 +6,10 @@
 
 ## Create tomcat user
 
+```conf
+useradd -s /sbin/nologin
+```
+
 ## Install Tomcat
 
 ## Log rotate
